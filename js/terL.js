@@ -1,6 +1,6 @@
-var x,y,ter;
-//ternery operator
+var x,y,ternary;
+//ternary operator
 x=6
 y=7
-ter=x>y ? "yes":"no";
-console.log(ter)
+ternary=x>y ? "yes":"no";
+console.log(ternary)
